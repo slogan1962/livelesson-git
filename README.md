@@ -1,4 +1,4 @@
-# Git notes
+# Git Notes
 
 - `git init`: initialize current folder as a git repository
 - `git clone <url>`: brings down the git repo from <url> to current folder
@@ -22,7 +22,7 @@
         - `git checkout main`: go back to main
         - `git switch main`: go back to main
 
-# remotes
+# Remotes
 
 - `git remote add <NAME> <URL>`: adds the <URL> as a remote with the name <NAME>
     - <NAME> is by convention called `origin`
